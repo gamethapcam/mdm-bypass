@@ -15,3 +15,4 @@ chip intel:
 $curl -# https://raw.githubusercontent.com/skip-m/m/main/T2Chip -o file && chmod 777 ./file && ./file
 
 
+https://maclife.io/macos-sequoia-15-link-tu-server-apple.html
